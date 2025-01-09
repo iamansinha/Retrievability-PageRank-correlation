@@ -10,7 +10,7 @@
     </a>
 </p>
 
-Official implementation for our paper [A Comparative Analysis of Retrievability and PageRank Measures](https://arxiv.org/abs/2311.10348) with code and result data. In this paper, we compute rank correlation coefficents (Kendall's $\tau$, Spearman's $\rho$, Ranked Biased Overlap (RBO)) between Retrievability and PageRank scores of the documents for 2 collections (Wikipedia and WT10g).
+Official implementation for our paper [A Comparative Analysis of Retrievability and PageRank Measures](https://arxiv.org/abs/2311.10348) with code and results notebooks. In this paper, we compute rank correlation coefficents (Kendall's $\tau$, Spearman's $\rho$, Ranked Biased Overlap (RBO)) between Retrievability and PageRank scores of the documents for 2 collections (Wikipedia and WT10g).
 
 ### Paper Abstract
 
